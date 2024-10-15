@@ -16,7 +16,7 @@ b. GenAI for Contextual Decision-Making: Based on real-time data (e.g., trending
 
 ## Example in Node.js
 
-```js
+```javascript
 async function personalizedRecommendation(userPreferences, instagramData) {
     const recommendation = await GenAIModel.generateRecommendation(userPreferences, instagramData);
     return recommendation;
@@ -160,11 +160,15 @@ Answer: By training a model on user spending patterns from past trips, we could 
 
 ## Languages and Frameworks:
 
-Node.js: Backend logic (controllers, routes, server setup).
-Python: For training and deploying GenAI models (optional integration).
-MySQL: Database for user, trips, and Instagram data.
-Docker: Containerization for the application.
-AWS RDS: Hosting MySQL database, using services like AWS Beanstalk for deploying the Node.js backend.
+**Node.js**: Backend logic (controllers, routes, server setup).
+
+**Python**: For training and deploying GenAI models (optional integration).
+
+**MySQL**: Database for user, trips, and Instagram data.
+
+**Docker**: Containerization for the application.
+
+**AWS RDS**: Hosting MySQL database, using services like AWS Beanstalk for deploying the Node.js backend.
 
 ## Future Enhancements:
 
