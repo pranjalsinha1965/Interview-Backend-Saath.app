@@ -111,6 +111,14 @@ Integrate Transformer-based NLP models to handle user sentiment and content anal
 
 ## Conclusion
 
-Incorporating GenAI into your existing Node.js travel itinerary system provides an immense opportunity for personalization, real-time adaptability, and advanced insights derived from user data. By using GPT, BERT, or other transformer models, you can revolutionize the way users receive recommendations, making the experience more immersive and user-centric.
+Incorporating GenAI into your existing Node.js travel itinerary system provides an immense opportunity for personalization, real-time adaptability, and advanced insights derived from user data. 
 
-This approach opens up possibilities for dynamic itineraries that adapt to real-time factors, ensuring that users not only receive well-tailored experiences but also enjoy a service that feels in tune with their specific preferences and circumstances.
+This approach opens real-time factors, ensuring that users not only receive well-tailored experiences but also enjoy a service that feels in tune with their specific preferences and circumstances.
+
+## Interview-Oriented Insights
+
+1. Optimizing API performance through connection pooling, indexing, and caching.
+
+2. Scaling the API using load balancing, auto-scaling, and AWS Lambda.
+
+4. Improving user experience with real-time itinerary updates by integrating AWS CloudWatch and ElastiCache.
