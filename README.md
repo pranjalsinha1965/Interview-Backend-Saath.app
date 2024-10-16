@@ -35,8 +35,8 @@ b. Use GenAI for Missing Data Imputation: Missing or incomplete data in Instagra
 
 ## Example (Theoretical):
 
-Input: Instagram caption: "Amazing hike through the mountains! #Adventure"
-Output (BERT): Sentiment: Positive, Activity: Hiking, Emotion: Excitement.
+**Input**: Instagram caption: "Amazing hike through the mountains! #Adventure"
+**Output (BERT)**: Sentiment: Positive, Activity: Hiking, Emotion: Excitement.
 
 ## 3. GenAI for Dynamic User Segmentation
 
@@ -68,8 +68,8 @@ b. Cost Predictions with GenAI: Instead of predefined costs, use AI to predict s
 
 ## Example:
 
-Input: "User is visiting Tokyo, prefers adventure, and is on a budget."
-Output: "Day 1: Visit Mount Fuji (Cost: $100), Day 2: Explore hidden hiking trails (Cost: $50)."
+**Input**: "User is visiting Tokyo, prefers adventure, and is on a budget."
+**Output**: "Day 1: Visit Mount Fuji (Cost: $100), Day 2: Explore hidden hiking trails (Cost: $50)."
 
 # Potential Interview Questions Based on GenAI Integration:
 
